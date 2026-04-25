@@ -2,9 +2,8 @@
 FAKE NEWS DETECTION — NeuroLogic '26 | Challenge 2
 ================================================================
 
-TEAM / AUTHOR : [Your Name / Team Name]
+TEAM / AUTHOR : [TsukyNLP]
 DATE          : April 25, 2026
-COMPETITION   : NeuroLogic '26 — Department of AIML, GGITS
 
 ----------------------------------------------------------------
 RESULTS
